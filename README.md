@@ -18,9 +18,9 @@ Copy right by the authors.
 # Scripts:
 ## Running the demo in the "demo" folder
 ```
-demo_PVRS_with_plot.py # run a simple illustration <br />
-demo_PVRS.py # run a PVRS in sequential setting <br />
-demo_batch_PVRS.py # run a PVRS in a batch setting <br />
+demo_PVRS_with_plot.py # run a simple illustration
+demo_PVRS.py # run a PVRS in sequential setting
+demo_batch_PVRS.py # run a PVRS in a batch setting
 ```
 
 ## Running to reproduce experiments
